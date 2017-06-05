@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Make a display table of different powers using a number entered by the user
+
 public class Main {
 
     public static int printUserNumber(int x)
